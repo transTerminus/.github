@@ -1,6 +1,7 @@
-# 性与性别多态计划
+# 性与性别多态计划 - 多元性别中文数字图书馆
 
-网站主页： <https://transchinese.org/>
+- 网站主页： <https://transchinese.org/>
+- TG 群组：<https://t.me/+QKIMPMhcwJFjOTBl>
 
 **性与性别多态计划**，又名**多元性别中文数字图书馆**，
 旨在记录、保存、展示与多元性别相关的所有中文内容。我们希望致力于在审查
