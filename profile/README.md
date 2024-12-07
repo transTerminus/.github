@@ -77,5 +77,5 @@
 
 ## 联系我们
 
-email: yunwei356@gmail.com
+email: admin@transchinese.org
 
